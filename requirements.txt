@@ -1,0 +1,3 @@
+python -m textblob.download_corpora
+pip install translate==3.6.1
+pip install googletrans==3.1.0a0
